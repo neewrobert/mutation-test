@@ -1,4 +1,8 @@
 # Mutation Testing with Java and Pitest
+
+This is a repository for a article that I wrote about the mutation test.
+
+## Content 
 This repository contains sample code and instructions for conducting mutation testing using Java and the Pitest mutation testing tool. The code includes a simple calculator application that performs basic arithmetic operations, and the instructions provide a step-by-step guide to setting up and running a mutation test using Pitest.
 
 
